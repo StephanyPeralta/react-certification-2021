@@ -1,6 +1,7 @@
 # YouWize App
 
 This project was created as part of the "2021 React Bootcamp" certification by Wizeline Academy.
+
 A YouTube-inspired app seamlessly integrated with the YouTube API. Search for any video, explore its details, and enjoy playback—all within one platform. Sign up or log in to save your favorite videos to a personalized 'Favorite List.' Try the light or dark mode interface for enhanced viewing.
 
 ## Usage
