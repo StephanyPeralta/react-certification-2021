@@ -14,7 +14,7 @@ This SPA is connected with the [YouTube API](https://developers.google.com/youtu
 
 ## Tools & Technologies
 
-- Create React App
+- React
 - Styled-Components
 - Youtube API
 - Firebase
