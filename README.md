@@ -17,7 +17,3 @@ A YouTube-inspired app seamlessly integrated with the YouTube API. Search for an
 - Youtube API
 - Firebase
 - Netlify
-
-## Live Mode
-
-See [YouWize App](https://steph-react-certification.netlify.app/).
